@@ -1,4 +1,4 @@
-package hello // import "github.io/AsafZalcman"
+package hello 
 
 func Hello() string {
     return "Hello, world."
